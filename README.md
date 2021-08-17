@@ -1,5 +1,10 @@
 # hello-world
-Obligatory tutorial project (for nearly every scripting language possible)
-Version 1.0
+Version 1.2 
 
-This is just my first ever app on GitHub. More to come in the future, surely. (Please have patience in the meantime.)
+This is just my first ever app on GitHub. More to come in the future. (Please have patience in the meantime.) Obligatory tutorial project (for whatever scripting language). Using this to say 'hi' to users, and ask for basic details, just playing around with programming languages to learn more languages. 
+
+I got to practice in Java for a course I took at Cleveland State University [CSU] in 2007, called "Into to Programming" that I got a B in, and I was upset it brought my GPA down. HTML 4, CSS, CSS2, HTML 5, JavaScript, jQuery, Drupal (node.js), tiny bit of Ruby, and now PERL, plus probably others I have played around with or used for some time now (ugh: HTACCESS, SQL, etc.) Loads of way to say hello, in so many different ways! (There must be others I cannot think of currently.) I generally enjoy making SVGS, but that's 99.9 percent involving zero coding, just maybe drawing old school way or digitally, and a fantastic way to greet people. 
+ 
+Want to learn about any of those languages I mentioned prior? Bookmark [this W3C page](https://www.w3schools.com/), and go to the References tab and the rest of that  one are SO wonderful too for practicing while learning. Also, Stack Overflow could be useful, and take a course digitally or in person. I enjoyed keeping reference books from in-person courses, like for HTML5 and CSS2 when I took two courses at the Professional Development Center at CSU when I worked at CSU as part of profesional development to see what had changed. I got to use jQuery in one of those classes, and it later helped me write something in that to help the others like me at work to have users open image links in new windows to stay on our page meanwhile. 
+
+At least some of my web learning was/is looking at the source of pages over the years, but I have also compiled a ton of bookmarks on coding I should do through to find dead links in to remove. Apache comes to mind as great one to have a bookmark of, especially if you've been away from coding for a while from work. There's no end to programmming links to have bookmarked, or even books to buy on the ever-growing topic list of it! 
