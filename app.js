@@ -1,6 +1,6 @@
 function grab(flag) {
-	var index = process.argv.indexOf(flag);
-	return (index === -1) ? null : process.argv[index+1];
+	myIndex = this('flag');
+	return (myIndex == -1) ? null : process.argv[index+1];
 }
 
 var greeting = grab('--helloWorld');
