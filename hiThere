@@ -1,3 +1,0 @@
-var foo = require("foo");
-
-console.log(`Rock on World from ${foo.basename(__filename)}`);
