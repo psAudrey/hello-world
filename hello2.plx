@@ -1,2 +1,2 @@
 
-require'hello'
+print 'Hello World!"
